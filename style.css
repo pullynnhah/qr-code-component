@@ -43,7 +43,9 @@ main {
   margin-bottom: 20px;
   color: hsl(220, 15%, 55%);
 }
+
 .attribution {
+  width: 100vw;
   font-size: 11px;
   text-align: center;
   position: fixed;
