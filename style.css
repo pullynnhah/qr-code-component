@@ -1,6 +1,5 @@
 body {
   font: 15px "Outfit", sans-serif;
-  color: hsl(218, 44%, 22%);
 }
 
 .page {
@@ -35,12 +34,14 @@ body {
 .modal h2 {
   width: 252px;
   font-weight: 700;
+  color: hsl(218, 44%, 22%);
   margin: 30px 0 20px;
 }
 
 .modal p {
   width: 252px;
   margin-bottom: 20px;
+  color: hsl(220, 15%, 55%);
 }
 .attribution {
   font-size: 11px;
