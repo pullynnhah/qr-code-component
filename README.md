@@ -27,7 +27,7 @@ This is my first project on Frontend Mentor.
 ### Links
 
 - Solution URL: [Solution](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H/hub/qr-code-component-with-flexbox-PqI4nET8tY)
-- Live Site URL: [Add live site URL here](https://qr-code-component.paulaabro.com)
+- Live Site URL: [Live URL](https://qr-code-component.paulaabro.com)
 
 ### Built with
 
@@ -38,4 +38,4 @@ This is my first project on Frontend Mentor.
 
 ## Author
 
-- Frontend Mentor - [@pullynnnha](https://www.frontendmentor.io/profile/pullynnhah)
+- Frontend Mentor - [@pullynnhah](https://www.frontendmentor.io/profile/pullynnhah)
